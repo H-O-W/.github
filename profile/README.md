@@ -1,8 +1,8 @@
-# AI 기반 장애인 취업 로드맵 서비스
+# AI 기반 장애인 취업 공고 추천 서비스 HOW
 
 ## 프로젝트 소개
 
-이 프로젝트는 AI를 활용하여 장애인들에게 맞춤형 취업 공고를 제공하는 서비스입니다. 취업과 관련된 커뮤니티 활동과 
+이 프로젝트는 AI를 활용하여 장애인들에게 맞춤형 취업 공고 추천과 취업과 관련된 커뮤니티 활동이 가능한 서비스입니다.
 
 ## 주요 기능
 
@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,discord,notion)](https://skillicons.dev)
 
 ## 배포
-![![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://how-fe.vercel.app)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://how-fe.vercel.app)
 
 [Vercel 배포링크](https://how-fe.vercel.app)
 
