@@ -27,6 +27,8 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,discord,notion)](https://skillicons.dev)
 
 ## 배포
+![![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://how-fe.vercel.app)
+
 [Vercel 배포링크](https://how-fe.vercel.app)
 
 ## 기여 방법
