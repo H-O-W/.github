@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,vite,vercel)](https://skillicons.dev)
 
 ### Backend:
-  - (백엔드 기술 스택 정보 추가 필요)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb)](https://skillicons.dev)
     
 ### AI: 
   - (사용된 AI 기술/모델 정보 추가 필요)
